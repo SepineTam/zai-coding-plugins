@@ -9,12 +9,6 @@
   },
   "plugins": [
     {
-      "name": "feature-dev",
-      "source": "./plugins/feature-dev",
-      "category": "development",
-      "description": "Streamline feature development with automated spilt feature, development support."
-    },
-    {
       "name": "glm-plan-usage",
       "source": "./plugins/glm-plan-usage",
       "category": "development",
